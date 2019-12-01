@@ -1,11 +1,30 @@
 {
-    "command":[
+    "AppInfo":[
         {
-            "name":"命令1",
+            "name":"微阅读",
             "version":1
         }
     ],
-    "videoAppList":[
 
+    "Task1":[
+        {
+            "name": "微鲤看看",
+            "version" :1
+        }
+    ],
+
+    "Task2":[
+        {
+            "name": "快手极速版",
+            "version" :1
+        }
+    ],
+
+    "Task3":[
+        {
+            "name": "抖音极速版",
+            "version" :1
+        }
     ]
+    
 }
